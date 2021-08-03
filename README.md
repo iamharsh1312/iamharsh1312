@@ -1,21 +1,24 @@
-<h1 align="center">Hi 👋, I'm Harsh</h1>
+<h1 align="center">Hola 👋, I'm Harsh</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
+<br/>
 
-- 🔭 I’m currently working on **Deep Learning stuffs**
+<img align="right" alt="Coding" width="400" height="270" src="https://res.cloudinary.com/practicaldev/image/fetch/s--bDM7I2tI--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/wrypp5so7wzmjzt7vbgz.jpeg">
+
+
+- 🔭 I’m currently working on **Deep Learning**
 
 - 🌱 I’m currently learning **everything related to Data Science**
 
 - 👯 I’m looking to collaborate on **ML & Deep learning related projects**
 
-- 🤝 I’m looking for help with **research in Deep Learning things**
+- 🤝 I’m looking for help with **research in Deep Learning Domain**
 
 - 💬 Ask me about **Machine Learning & Web Development**
 
 - 📫 How to reach me **govind72382@gmail.com**
 
-- ⚡ Fun fact **I love to play Cricket and Badminton and also loves to listen music.**
+- ⚡ Fun fact **I love to play Cricket and listening music as well.**
 
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/4948736-UI-Developer/attachments/4948736-UI-Developer?mode=media">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
