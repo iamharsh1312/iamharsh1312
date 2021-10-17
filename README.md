@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Machine Learning & Web Development**
 
-- 📫 How to reach me **govind72382@gmail.com**
+- 📫 Reach me at **govind72382@gmail.com**
 
 - ⚡ Fun fact **I love to play Cricket and listening music as well.**
 
