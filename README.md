@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, I'm Harsh</h1>
-<h3 align="center">A Boy Exploring Java Stuffs</h3>
+<h3 align="center">A Boy Exploring Dev Stuffs</h3>
 <br/>
 
 <img align="right" alt="Coding" width="400" height="270" src="https://res.cloudinary.com/practicaldev/image/fetch/s--bDM7I2tI--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/wrypp5so7wzmjzt7vbgz.jpeg">
